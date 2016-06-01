@@ -10,10 +10,10 @@
 
 <dependencies>
          <dependency>
-         <groupId>maven</groupId>
-         <artifactId>maven-checkstyle-plugin</artifactId>
-         <version>3.0.1</version>
-         </dependency>
+          <groupId>maven</groupId>
+          <artifactId>maven-pmd-plugin</artifactId>
+         <version>1.10</version>
+</dependency>
 </dependencies>
 
 <build>
